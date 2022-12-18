@@ -26,8 +26,7 @@ INNER = [2, 5, 6, 10, 11]
 MIDDLE = [1, 3, 8, 12, 14]
 OUTER = [0, 4, 9, 13, 15]
 
-
-# Center Out
+# Test Pattern.
 time.sleep(1)
 pixels.fill(BLACK)
 pixels.show()
@@ -69,10 +68,7 @@ def random_sparkle(pixel_index, pixel_count):
     pixels[random.randint(pixel_index, (pixel_index+pixel_count-1))] = DIM_WHITE
     pixels[random.randint(pixel_index, (pixel_index+pixel_count-1))] = DIM_WHITE
     pixels.show()
-
-#while (1):
-#    random_sparkle(0, 16)
-#    time.sleep(0.05)
+)
 
 color_queue = [BLACK]
 for each in range(0,11):
@@ -103,96 +99,4 @@ while (1):
 
     color_queue.append(next_color)
     time.sleep(0.2)
-
-'''
-
-pixels.fill(BLACK)
-time.sleep(1)
-
-while(1):
-    pixels[CENTER] = (random.randint(0, 32), random.randint(0,32), random.randint(0,32))
-    time.sleep(0.1)
-    #pixels[CENTER] = BLACK
-
-    rand_color = (random.randint(0, 32), random.randint(0,32), random.randint(0,32))
-    for each in INNER:
-        pixels[each] = rand_color
-    time.sleep(0.1)
-    #pixels.fill(BLACK)
-
-    rand_color = (random.randint(0, 32), random.randint(0,32), random.randint(0,32))
-    for each in MIDDLE:
-        pixels[each] = rand_color
-    time.sleep(0.1)
-    #pixels.fill(BLACK)
-
-    rand_color = (random.randint(0, 32), random.randint(0,32), random.randint(0,32))
-    for each in OUTER:
-        pixels[each]=rand_color
-    time.sleep(0.1)
-    #pixels.fill(BLACK)
-
-
-for each in range(0, 16):
-    pixels[each]=DIM_WHITE
-    time.sleep(3)
-
-
-
-while(1):
-    for each in range(0, 16):
-        pixel_color = ( random.randint(0, 64), random.randint(0, 64), random.randint(0,64) )
-        pixels[each] = pixel_color
-    time.sleep(1)
-
-
-print("Set To GREEN")
-pixels.fill(GREEN)
-pixels.show()
-
-time.sleep(2)
-pixels.fill( (38, 8, 115) )
-
-
-time.sleep(2)
-
-print("Light Pixels")
-pixels.fill(BLACK)
-pixels[0]=RED
-pixels[1]=GREEN
-pixels[2]=BLUE
-pixels[3]=WHITE
-pixels[4]=DIM_WHITE
-
-
-time.sleep(2)
-pixels.fill(BLACK)
-pixels[0]=RED
-pixels[1]=DIM_RED
-pixels[2]=PINK
-pixels[3]=WHITE
-pixels[4]=SOFT_WHITE
-
-time.sleep(2)
-
-pixels.fill(BLACK)
-for value in range(0, 256):
-    pixels.fill( (value, 0, value) )
-    time.sleep(0.01)
-for value in range(255, -1, -1):
-    pixels.fill( (value, 0, value) )
-    time.sleep(0.01)
-
-
-time.sleep(2)
-pixels.fill(GREEN)
-for each in range(0, 30):
-    for value in range(0, 5):
-        pixels[value]=RED
-        time.sleep(0.1)
-        pixels[value]=GREEN
-
-
-'''
-
 

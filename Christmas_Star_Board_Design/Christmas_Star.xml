@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\brada\Documents\Christmas_Star\Christmas_Star.kicad_sch</source>
+    <date>11/13/2022 4:19:14 PM</date>
+    <tool>Eeschema (6.0.9)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Christmas_Star.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>.1uF</value>
+      <footprint>Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm</footprint>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Christmas_Star.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f026a05f-5150-4e5e-9c70-8f0403bf95da</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>.1uF</value>
+      <footprint>Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm</footprint>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Christmas_Star.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>be30dec7-62a2-4acd-87fa-cb460775db83</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>10uF</value>
+      <footprint>Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm</footprint>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Christmas_Star.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd3287fa-b93a-447f-ac4b-f1dddc6ffbf3</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>.1uF</value>
+      <footprint>Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm</footprint>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Christmas_Star.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9d35eb98-e832-437d-9986-1014e837e395</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>.1uF</value>
+      <footprint>Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm</footprint>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Christmas_Star.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7cb5c11-ca4e-457b-9892-47c47b5794b7</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>.1uF</value>
+      <footprint>Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm</footprint>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Christmas_Star.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56eaca75-293f-46a4-90b7-414764adb4e3</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>Inolux_IN-PI554FCH</value>
+      <footprint>LED_SMD:LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Addressable%20LED/IN-PI554FCH.pdf</datasheet>
+      <libsource lib="LED" part="Inolux_IN-PI554FCH" description="5050 RGB LED 4-Pin with integrated IC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Christmas_Star.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0a274a2-511e-497e-a856-f17ee062c122</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>Inolux_IN-PI554FCH</value>
+      <footprint>LED_SMD:LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Addressable%20LED/IN-PI554FCH.pdf</datasheet>
+      <libsource lib="LED" part="Inolux_IN-PI554FCH" description="5050 RGB LED 4-Pin with integrated IC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Christmas_Star.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b88b3251-a0b5-4513-9090-cd670444e8dc</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>Inolux_IN-PI554FCH</value>
+      <footprint>LED_SMD:LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Addressable%20LED/IN-PI554FCH.pdf</datasheet>
+      <libsource lib="LED" part="Inolux_IN-PI554FCH" description="5050 RGB LED 4-Pin with integrated IC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Christmas_Star.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe5e3ed9-970b-452a-bc18-e7f81d0b0211</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>Inolux_IN-PI554FCH</value>
+      <footprint>LED_SMD:LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Addressable%20LED/IN-PI554FCH.pdf</datasheet>
+      <libsource lib="LED" part="Inolux_IN-PI554FCH" description="5050 RGB LED 4-Pin with integrated IC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Christmas_Star.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>99c65b7f-a2f8-432f-afa1-2c695cd64908</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>Inolux_IN-PI554FCH</value>
+      <footprint>LED_SMD:LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Addressable%20LED/IN-PI554FCH.pdf</datasheet>
+      <libsource lib="LED" part="Inolux_IN-PI554FCH" description="5050 RGB LED 4-Pin with integrated IC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Christmas_Star.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c78823e8-7b01-4346-8641-0caebfa60bb5</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>Inolux_IN-PI554FCH</value>
+      <footprint>LED_SMD:LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Addressable%20LED/IN-PI554FCH.pdf</datasheet>
+      <libsource lib="LED" part="Inolux_IN-PI554FCH" description="5050 RGB LED 4-Pin with integrated IC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Christmas_Star.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>12eb1dd9-9808-42c9-959f-b020b50bc5c5</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>Inolux_IN-PI554FCH</value>
+      <footprint>LED_SMD:LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Addressable%20LED/IN-PI554FCH.pdf</datasheet>
+      <libsource lib="LED" part="Inolux_IN-PI554FCH" description="5050 RGB LED 4-Pin with integrated IC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Christmas_Star.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>af69ac9d-0c31-40e7-a140-764a13730bd4</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>Inolux_IN-PI554FCH</value>
+      <footprint>LED_SMD:LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Addressable%20LED/IN-PI554FCH.pdf</datasheet>
+      <libsource lib="LED" part="Inolux_IN-PI554FCH" description="5050 RGB LED 4-Pin with integrated IC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Christmas_Star.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23e2b152-7544-487e-a541-35f63cf5c15d</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>Inolux_IN-PI554FCH</value>
+      <footprint>LED_SMD:LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Addressable%20LED/IN-PI554FCH.pdf</datasheet>
+      <libsource lib="LED" part="Inolux_IN-PI554FCH" description="5050 RGB LED 4-Pin with integrated IC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Christmas_Star.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>323eabf3-9043-4cc9-8b07-b2adace0b563</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>Inolux_IN-PI554FCH</value>
+      <footprint>LED_SMD:LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Addressable%20LED/IN-PI554FCH.pdf</datasheet>
+      <libsource lib="LED" part="Inolux_IN-PI554FCH" description="5050 RGB LED 4-Pin with integrated IC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Christmas_Star.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5535696d-3ed2-4f45-9b3f-ee0471e0385a</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>Inolux_IN-PI554FCH</value>
+      <footprint>LED_SMD:LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Addressable%20LED/IN-PI554FCH.pdf</datasheet>
+      <libsource lib="LED" part="Inolux_IN-PI554FCH" description="5050 RGB LED 4-Pin with integrated IC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Christmas_Star.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38c1db42-a84e-4290-b27c-6947a0e4275a</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>Inolux_IN-PI554FCH</value>
+      <footprint>LED_SMD:LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Addressable%20LED/IN-PI554FCH.pdf</datasheet>
+      <libsource lib="LED" part="Inolux_IN-PI554FCH" description="5050 RGB LED 4-Pin with integrated IC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Christmas_Star.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc08d20e-aa5f-4832-87cf-f4d3521f4943</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>Inolux_IN-PI554FCH</value>
+      <footprint>LED_SMD:LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Addressable%20LED/IN-PI554FCH.pdf</datasheet>
+      <libsource lib="LED" part="Inolux_IN-PI554FCH" description="5050 RGB LED 4-Pin with integrated IC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Christmas_Star.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e3b1938-ab68-4baf-9e33-e61da85b6208</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>Inolux_IN-PI554FCH</value>
+      <footprint>LED_SMD:LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Addressable%20LED/IN-PI554FCH.pdf</datasheet>
+      <libsource lib="LED" part="Inolux_IN-PI554FCH" description="5050 RGB LED 4-Pin with integrated IC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Christmas_Star.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca83ca93-7b17-473a-a46b-587e9c76c343</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>Inolux_IN-PI554FCH</value>
+      <footprint>LED_SMD:LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Addressable%20LED/IN-PI554FCH.pdf</datasheet>
+      <libsource lib="LED" part="Inolux_IN-PI554FCH" description="5050 RGB LED 4-Pin with integrated IC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Christmas_Star.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>96f5ba77-e315-4700-9e26-c43a5f8d6dfc</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>Inolux_IN-PI554FCH</value>
+      <footprint>LED_SMD:LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>http://www.inolux-corp.com/datasheet/SMDLED/Addressable%20LED/IN-PI554FCH.pdf</datasheet>
+      <libsource lib="LED" part="Inolux_IN-PI554FCH" description="5050 RGB LED 4-Pin with integrated IC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Christmas_Star.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6464c925-d536-4d63-a333-f155c6e4be59</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>S3B-PH-K-S(LF)(SN)</value>
+      <footprint>User Footprints:JST_S3B-PH-K-S(LF)(SN)</footprint>
+      <fields>
+        <field name="MANUFACTURER">JST Sales</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">4.8mm</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="JST-PH 3-pin" part="S3B-PH-K-S(LF)(SN)" description=""/>
+      <property name="PARTREV" value=""/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="4.8mm"/>
+      <property name="MANUFACTURER" value="JST Sales"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Christmas_Star.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a28a566-6840-4527-91e9-b705943bf36e</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Barrel_Jack_Switch</value>
+      <footprint>Connector_BarrelJack:BarrelJack_CUI_PJ-102AH_Horizontal</footprint>
+      <libsource lib="Connector" part="Barrel_Jack_Switch" description="DC Barrel Jack with an internal switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Christmas_Star.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e2f06931-eed7-444a-abee-369185d0a7e3</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>S3B-PH-K-S(LF)(SN)</value>
+      <footprint>User Footprints:JST_S3B-PH-K-S(LF)(SN)</footprint>
+      <fields>
+        <field name="MANUFACTURER">JST Sales</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">4.8mm</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="JST-PH 3-pin" part="S3B-PH-K-S(LF)(SN)" description=""/>
+      <property name="PARTREV" value=""/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="4.8mm"/>
+      <property name="MANUFACTURER" value="JST Sales"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Christmas_Star.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e8c53211-40dc-4e55-970b-20b287d1c500</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Barrel_Jack_Switch">
+      <description>DC Barrel Jack with an internal switch</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>BarrelJack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Barrel_Jack_Switch</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="JST-PH 3-pin" part="S3B-PH-K-S(LF)(SN)">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">S3B-PH-K-S(LF)(SN)</field>
+        <field name="Footprint">JST_S3B-PH-K-S(LF)(SN)</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">4.8mm</field>
+        <field name="MANUFACTURER">JST Sales</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="LED" part="Inolux_IN-PI554FCH">
+      <description>5050 RGB LED 4-Pin with integrated IC</description>
+      <docs>http://www.inolux-corp.com/datasheet/SMDLED/Addressable%20LED/IN-PI554FCH.pdf</docs>
+      <footprints>
+        <fp>LED*IN-PI554FCH*PLCC*5.0x5.0mm*P3.2mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">Inolux_IN-PI554FCH</field>
+        <field name="Footprint">LED_SMD:LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm</field>
+        <field name="Datasheet">http://www.inolux-corp.com/datasheet/SMDLED/Addressable%20LED/IN-PI554FCH.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VSS" type="power_in"/>
+        <pin num="2" name="DIN" type="input"/>
+        <pin num="3" name="VDD" type="power_in"/>
+        <pin num="4" name="DO" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="pspice" part="C">
+      <description>Capacitor symbol for simulation only</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="JST-PH 3-pin">
+      <uri>C:\Users\brada\Documents\KiCad\6.0\symbols\S3B-PH-K-S_LF__SN_.lib</uri>
+    </library>
+    <library logical="LED">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/LED.kicad_sym</uri>
+    </library>
+    <library logical="pspice">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/pspice.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="D1" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D10" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D11" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D12" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D13" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D14" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D15" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D16" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D2" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D3" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D4" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D5" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D6" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D7" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D8" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D9" pin="3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="J1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J2" pin="1" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="2" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D10" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D11" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D12" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D13" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D14" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D15" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D16" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D2" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D3" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D4" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D5" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D6" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D7" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D8" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D9" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="J1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J2" pin="2" pintype="passive"/>
+      <node ref="J2" pin="3" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="DIN" pintype="input"/>
+      <node ref="J1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="DIN" pintype="input"/>
+      <node ref="D4" pin="4" pinfunction="DO" pintype="output"/>
+    </net>
+    <net code="5" name="Net-(D2-Pad4)">
+      <node ref="D2" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="D6" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="6" name="Net-(D3-Pad2)">
+      <node ref="D1" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="D3" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="7" name="Net-(D3-Pad4)">
+      <node ref="D3" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="D5" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="8" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="DIN" pintype="input"/>
+      <node ref="D5" pin="4" pinfunction="DO" pintype="output"/>
+    </net>
+    <net code="9" name="Net-(D8-Pad2)">
+      <node ref="D6" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="D8" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="10" name="Net-(D8-Pad4)">
+      <node ref="D10" pin="2" pinfunction="DIN" pintype="input"/>
+      <node ref="D8" pin="4" pinfunction="DO" pintype="output"/>
+    </net>
+    <net code="11" name="Net-(D9-Pad2)">
+      <node ref="D7" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="D9" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="12" name="Net-(D10-Pad4)">
+      <node ref="D10" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="D7" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="13" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2" pinfunction="DIN" pintype="input"/>
+      <node ref="D12" pin="4" pinfunction="DO" pintype="output"/>
+    </net>
+    <net code="14" name="Net-(D11-Pad4)">
+      <node ref="D11" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="D13" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="15" name="Net-(D12-Pad2)">
+      <node ref="D12" pin="2" pinfunction="DIN" pintype="input"/>
+      <node ref="D9" pin="4" pinfunction="DO" pintype="output"/>
+    </net>
+    <net code="16" name="Net-(D13-Pad4)">
+      <node ref="D13" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="D14" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="17" name="Net-(D15-Pad2)">
+      <node ref="D14" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="D15" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="18" name="Net-(D15-Pad4)">
+      <node ref="D15" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="D16" pin="2" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="19" name="Net-(D16-Pad4)">
+      <node ref="D16" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="J3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+  </nets>
+</export>
